@@ -7,3 +7,5 @@ ok here's another change on the penguine knees branch, referencing his drumstick
 now i am paulel09 and making a change to this file, which will be forked 
 
 now I am paul.elwood@brother and I am modfying the file, committing changes in the root directory 
+
+paulel09 has opened this file and is making a change to it
